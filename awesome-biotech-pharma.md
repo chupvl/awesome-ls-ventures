@@ -1,72 +1,122 @@
-# Awesome List
+# Open code repositories of pharma and biotech companies
 
-> Curated list of awesome items
-
----
-
-## Contents
-
-- [Big pharma](#category-1)
-- [Biotech](#category-2)
-- [ML-first companies](#category-3)
+## Introduction
+Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
+The list contains industry ventures - biotech, pharma, and life science tech companies with centralized open code repositories. Collection created with mostly Github as a primary search term, so other code platforms could be represented better. The list of big pharma was based on the [top by revenue pharma companies in 2022](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue), so COVID19 biased that list and [top 25 by R&D investment in 2022](https://www.drugdiscoverytrends.com/top-pharma-rd-spenders-2022/).
+I did not include:
+- Personal repositories of the company employees
+- Empty or suspicious repositories (they are under [this section](#Companies that don't have centralized open code sharing).
 
 ---
-
-## Category 1
-
-### [Item 1 Name](Item 1 Link)
-
-**Description:** Short description of Item 1
-
-**Tags:** `tag1`, `tag2`, `tag3`
-
+- [Introduction](#introduction)
+- [Big Pharma](#big-pharma) - you know them (mostly)
+- [ML-first life science companies](#ml-first-companies)
+- [Biotech companies](#biotech-companies) - some notable biotech companies with ML angle
+- [License](#license)
 ---
 
-### [Item 2 Name](Item 2 Link)
+## Big pharma
+- **Pfizer**:
+  - [pfizer-opensource](https://github.com/pfizer-opensource)
+  - [Pfizer R&D - Deprecated](https://github.com/PfizerRD)
+- **Johnson & Johnson**
+  - [Johnson & Johnson](https://github.com/johnsonandjohnson)
+- **Roche**
+  - [F. Hoffmann-La Roche](https://github.com/Roche)
+  - [Genentech](https://github.com/Genentech)
+  - [Roche/Genentech - Insights Engineering](https://github.com/insightsengineering)
+- **Merck(s)**
+  - [Merck & Co.](https://github.com/Merck) - US company
+  - [Merck KGaA](https://github.com/merckgroup) - EU company
+- **AbbVie**
+  - [AbbVie R&D External](https://github.com/abbvie-external)
+  - [AbbVie - Computational Genomics](https://github.com/AbbVie-ComputationalGenomics)
+- **Novartis**
+  - [Novartis](https://github.com/Novartis)
+  - [Novartis Institutes for BioMedical Research: Open Source Science](https://www.novartis.com/research-development/open-source-science)
+- **Sanofi**
+  - [Sanofi IADC](https://github.com/Sanofi-IADC)
+  - [Sanofi-Public](https://github.com/Sanofi-Public)
+- **AstraZeneca**
+  - [AstraZeneca](https://github.com/AstraZeneca)
+  - [AstraZeneca Centre for Genomics Research](https://github.com/astrazeneca-cgr-publications)
+  - [AstraZeneca - NGS Team](https://github.com/AstraZeneca-NGS)
+  - [AstraZeneca - Molecular AI](https://github.com/MolecularAI)
+- **GSK**
+  - [GSK Biostatistics](https://github.com/GSK-Biostatistics)
+  - [GSK.AI](https://github.com/GSK-AI)
+- **Eli Lilly**
+  - [Eli Lilly](https://github.com/EliLillyCo)
+- **Bayer**
+  - [Bayer AG](https://github.com/bayer-science-for-a-better-life)
+  - [Bayer Open Source](https://github.com/Bayer-Group)
+  - [Bayer: Internal Bayer projects](https://github.com/bayer-int) - not accesible
+- **Amgen**
+  - [Amgen](https://github.com/Amgen) 
+- **Boehringer Ingelheim**
+  - [Boehringer Ingelheim](https://github.com/Boehringer-Ingelheim)
+- **Novo Nordisk**
+  - [novonordisk-research](https://github.com/novonordisk-research)
+  - [Novo-Nordisk](https://gitlab.com/Novo-Nordisk) - gitlab
+- **Biogen**
+  - [Biogen, Inc.](https://github.com/Biogen-Inc)
 
-**Description:** Short description of Item 2
-
-**Tags:** `tag1`, `tag2`
-
+- **Companies that don't have centralized open code sharing**
+  - **Bristol Myers Squibb**
+  - **Takeda Pharmaceutical Company**
+  - **Gilead**
+  - **Moderna**
+  - **BioNTech**
+  - **Regeneron Pharmaceuticals**
+  - **Vertex Pharmaceuticals**
+  - **Daiichi Sankyo**
+  - **Otsuka Holdings** - Otsuka Pharmaceutical is a part of the organization
+  - **CSL Behring**
 ---
 
-## Category 2
+## ML-first-companies
 
-### [Item 3 Name](Item 3 Link)
+- **Title**
+  - [Title](link)
+  - [Title](link)
+  - [Title](link)
+- **Title**
+  - [Title](link)
+  - [Title](link)
+  - [Title](link)
+- **Title**
+  - [Title](link)
+  - [Title](link)
+  - [Title](link)
 
-**Description:** Short description of Item 3
+## Biotech companies
 
-**Tags:** `tag1`, `tag2`, `tag3`
-
----
-
-### [Item 4 Name](Item 4 Link)
-
-**Description:** Short description of Item 4
-
-**Tags:** `tag1`, `tag2`
-
----
-
-## Contributing
-
-Please ensure your pull request adheres to the following guidelines:
-
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[List Name](link)` - Description.
-- Additions should be added to the bottom of the relevant category.
-- Keep descriptions short and simple, but descriptive.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-
-Thank you for your suggestions!
-
----
+- **Title**
+  - [Title](link)
+  - [Title](link)
+  - [Title](link)
+- **Title**
+  - [Title](link)
+  - [Title](link)
+  - [Title](link)
+- **Title**
+  - [Title](link)
+  - [Title](link)
+  - [Title](link)
 
 ## License
 
-This list is under [MIT license](link to the license)
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
 
+## Contribution
+
+Contributions are always welcome! Here's how you can help:
+- Add new companies to the list
+- Help with editing
+- Send a pull request with your proposed changes. To make this process easier and quicker, please follow these steps:
+  - Fork this repository to your own GitHub account.
+  - Clone the repository to your local machine.
+  - Create a new branch where you'll do your work.
+  - Make the necessary changes in the files.
+  - Push your branch and open a pull request.
+Thank you for your contributions!
