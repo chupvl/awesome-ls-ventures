@@ -61,6 +61,8 @@ Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), em
   - [Novo-Nordisk](https://gitlab.com/Novo-Nordisk) - gitlab
 - **Biogen**
   - [Biogen, Inc.](https://github.com/Biogen-Inc)
+- **SoseiHeptares**
+  - [SoseiHeptares](https://github.com/soseiheptares)
 
 - **Companies that don't have centralized open code sharing**
   - **Bristol Myers Squibb**
@@ -97,10 +99,10 @@ Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), em
 
 - [Recursion Pharmaceuticals](https://github.com/recursionpharma)
 - [Insitro](https://github.com/insitro)
-- [Aifred Health](https://github.com/Aifred-Health)
-- [Enveda Biosciences](https://github.com/enveda)
 - [Vant.AI](https://github.com/aivant) - part of Roivant Sciences
 - [Intellia Therapeutics](https://github.com/Intellia)
+- [Aifred Health](https://github.com/Aifred-Health)
+- [Enveda Biosciences](https://github.com/enveda)
 
 ## License
 
