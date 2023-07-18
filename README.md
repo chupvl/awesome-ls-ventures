@@ -1,9 +1,10 @@
-# awesome-ls-companies
-AWESOME list of the code repos of the Life Science Companies (biotech, pharma, tech) that are heavily using AI/ML for the drug design and discovery process or related activities.
+# awesome-ls-ventures
+
+Awesome list of the code repos of the Life Science Companies (biotech, pharma) that are heavily using AI/ML for the drug design and discovery process or related activities.
 Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
 
 ---
-- [Awesome-Biotech-Pharma: open code repositories of pharma and biotech companies heavily using AI/ML](awesome-pharma-biotech.md)
+- [Awesome-Biotech-Pharma-AIML: open code repositories of pharma and biotech companies heavily using AI/ML](awesome-pharma-biotech.md)
 ---
 
 ## License
