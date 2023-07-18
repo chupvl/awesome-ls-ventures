@@ -1,6 +1,6 @@
 # awesome-ls-ventures
 
-Awesome list of the code repos of the Life Science Companies (biotech, pharma) that are heavily using AI/ML for the drug design and discovery process or related activities.
+Awesome list of the code repos of the Life Science Ventures (biotech, pharma) that are heavily using AI/ML for the drug design and discovery process or related activities.
 Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
 
 ---
