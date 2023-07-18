@@ -4,7 +4,7 @@ Awesome list of the code repos of the Life Science Companies (biotech, pharma) t
 Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
 
 ---
-- [Awesome-Biotech-Pharma-AIML: open code repositories of pharma and biotech companies heavily using AI/ML](awesome-pharma-biotech.md)
+- [Awesome-Biotech-Pharma-AIML: open code repositories of pharma and biotech companies heavily using AI/ML](awesome-pharma-biotech-aiml.md)
 ---
 
 ## License
