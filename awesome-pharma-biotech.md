@@ -1,19 +1,23 @@
-# Open code repositories of pharma and biotech companies
-
-## Introduction
-Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
-The list contains industry ventures - biotech, pharma, and life science tech companies with centralized open code repositories. Collection created with mostly Github as a primary search term, so other code platforms could be represented better. The list of big pharma was based on the [top by revenue pharma companies in 2022](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue), so COVID19 biased that list and [top 25 by R&D investment in 2022](https://www.drugdiscoverytrends.com/top-pharma-rd-spenders-2022/).
-I did not include:
-- Personal repositories of the company employees
-- Empty or suspicious repositories (they are under [this section](#Companies that don't have centralized open code sharing).
+# Open code repositories of pharma and biotech companies heavily using AI/ML
 
 ---
 - [Introduction](#introduction)
-- [Big Pharma](#big-pharma) - you know them (mostly)
-- [ML-first life science companies](#ml-first-companies)
-- [Biotech companies](#biotech-companies) - some notable biotech companies with ML angle
+- [Big Pharma](#big-pharma) - you know them
+- [ML-first life science companies](#ml-first-companies) - started as pure AI/ML 
+- [Biotech companies](#biotech-companies) - some notable biotech companies with AI/ML angle
 - [License](#license)
 ---
+
+## Introduction
+Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
+The list contains industry ventures - biotech, pharma, and life science tech companies with centralized open code repositories working in a drug design and discovery field. Collection created with mostly Github as a primary search term, so other code platforms could be represented better. The section for the **big pharma** was based on the [top by revenue pharma companies in 2022](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue) and [top 25 by R&D investment in 2022](https://www.drugdiscoverytrends.com/top-pharma-rd-spenders-2022/), take into account a bit of a COVID19 bias. The **ML-first-companies** are usually a company started as a pure AI/ML that later converted to drug development in collaboration or internally; this list is based on my preferences and partially was improved by the list from the publication [AI in small-molecule drug discovery: a coming wave?](https://media.nature.com/original/magazine-assets/d41573-022-00025-1/20096834). **Biotech companies** reprsent companies that started from a wet-lab platform but heavily using AI/ML for drug design and discovery process.
+
+### Criteria for inclusion:
+- Open code repository
+- Direct involvment in a drug design and discovery process
+- I did not include: personal repositories of the company employees, and or course empty or suspicious repositories
+
+
 
 ## Big pharma
 - **Pfizer**:
@@ -75,34 +79,28 @@ I did not include:
 ---
 
 ## ML-first-companies
-
-- **Title**
-  - [Title](link)
-  - [Title](link)
-  - [Title](link)
-- **Title**
-  - [Title](link)
-  - [Title](link)
-  - [Title](link)
-- **Title**
-  - [Title](link)
-  - [Title](link)
-  - [Title](link)
+- [Schrodinger](https://github.com/schrodinger)
+- [Exscientia](https://github.com/Exscientia)
+- [BenevolentAI](https://github.com/benevolentAI)
+- [Insilico Medicine](https://github.com/insilicomedicine)
+- [Atomwise](https://github.com/AtomwiseInc/)
+- [Cyclica](https://github.com/cyclica)
+- [Owkin](https://github.com/owkin)
+- [Deep Genomics](https://github.com/deepgenomics)
+- [Turbine](https://github.com/turbine-ai)
+- [PathAI](https://github.com/Path-AI)
+- [DeepCure](https://github.com/deepcure-ai)
+- [Acellera](https://github.com/Acellera)
+- [HealX](https://github.com/healx)
+- Missing ones: Relay Therapeutics
 
 ## Biotech companies
 
-- **Title**
-  - [Title](link)
-  - [Title](link)
-  - [Title](link)
-- **Title**
-  - [Title](link)
-  - [Title](link)
-  - [Title](link)
-- **Title**
-  - [Title](link)
-  - [Title](link)
-  - [Title](link)
+- [Recursion Pharmaceuticals](https://github.com/recursionpharma)
+- [Insitro](https://github.com/insitro)
+- [Aifred Health](https://github.com/Aifred-Health)
+- [Enveda Biosciences](https://github.com/enveda)
+- [Vant.AI](https://github.com/aivant) - part of Roivant Sciences
 
 ## License
 
