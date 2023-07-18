@@ -12,12 +12,10 @@
 Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com).
 The list contains industry ventures - biotech, pharma, and life science tech companies with centralized open code repositories working in a drug design and discovery field. Collection created with mostly Github as a primary search term, so other code platforms could be represented better. The section for the **big pharma** was based on the [top by revenue pharma companies in 2022](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue) and [top 25 by R&D investment in 2022](https://www.drugdiscoverytrends.com/top-pharma-rd-spenders-2022/), take into account a bit of a COVID19 bias. The **ML-first-companies** are usually a company started as a pure AI/ML that later converted to drug development in collaboration or internally; this list is based on my preferences and partially was improved by the list from the publication [AI in small-molecule drug discovery: a coming wave?](https://media.nature.com/original/magazine-assets/d41573-022-00025-1/20096834). **Biotech companies** reprsent companies that started from a wet-lab platform but heavily using AI/ML for drug design and discovery process.
 
-### Criteria for inclusion:
-- Open code repository
+## Criteria for inclusion:
+- Open code repository mostly of AI/ML focus
 - Direct involvment in a drug design and discovery process
 - I did not include: personal repositories of the company employees, and or course empty or suspicious repositories
-
-
 
 ## Big pharma
 - **Pfizer**:
@@ -76,10 +74,11 @@ The list contains industry ventures - biotech, pharma, and life science tech com
   - **Daiichi Sankyo**
   - **Otsuka Holdings** - Otsuka Pharmaceutical is a part of the organization
   - **CSL Behring**
+
 ---
 
 ## ML-first-companies
-- [Schrodinger](https://github.com/schrodinger)
+- [Schrodinger](https://github.com/schrodinger) - not really an ML-first but...
 - [Exscientia](https://github.com/Exscientia)
 - [BenevolentAI](https://github.com/benevolentAI)
 - [Insilico Medicine](https://github.com/insilicomedicine)
@@ -92,6 +91,7 @@ The list contains industry ventures - biotech, pharma, and life science tech com
 - [DeepCure](https://github.com/deepcure-ai)
 - [Acellera](https://github.com/Acellera)
 - [HealX](https://github.com/healx)
+- [Absci](https://github.com/AbSciBio)
 - Missing ones: Relay Therapeutics
 
 ## Biotech companies
@@ -101,6 +101,7 @@ The list contains industry ventures - biotech, pharma, and life science tech com
 - [Aifred Health](https://github.com/Aifred-Health)
 - [Enveda Biosciences](https://github.com/enveda)
 - [Vant.AI](https://github.com/aivant) - part of Roivant Sciences
+- [Intellia Therapeutics](https://github.com/Intellia)
 
 ## License
 
@@ -109,8 +110,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Contribution
 
 Contributions are always welcome! Here's how you can help:
-- Add new companies to the list
-- Help with editing
+- Add/remove companies to the list
+- Help with editing: typos likely present
 - Send a pull request with your proposed changes. To make this process easier and quicker, please follow these steps:
   - Fork this repository to your own GitHub account.
   - Clone the repository to your local machine.
