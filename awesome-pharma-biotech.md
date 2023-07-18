@@ -1,4 +1,4 @@
-# Open code repositories of pharma and biotech companies heavily using AI/ML
+# awesome-pharma-biotech: open code repositories of pharma and biotech companies heavily using AI/ML
 
 ---
 - [Introduction](#introduction)
