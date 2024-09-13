@@ -103,6 +103,24 @@ Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), em
 - [Intellia Therapeutics](https://github.com/Intellia)
 - [Aifred Health](https://github.com/Aifred-Health)
 - [Enveda Biosciences](https://github.com/enveda)
+- [Ginkgo Bioworks](https://github.com/GinkgoBioworks)
+
+## Wet-lab companies
+- [Illumina](https://github.com/Illumina)
+
+## ChemTech companies
+- [BASF](https://github.com/basf)
+
+## Molecular Informatics companies
+- [Simulations Plus](https://github.com/simulations-plus)
+- [Benchling](https://github.com/benchling)
+- [Schrodinger, Inc.](https://github.com/schrodinger)
+- [Certara USA, Inc.](https://github.com/Certara)
+- [ChemAxon](https://github.com/ChemAxon) - now part of Certara
+- [Dotmatics](https://github.com/dotmatics)
+- [Knime](https://github.com/knime)
+
+
 
 ## License
 
