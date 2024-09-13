@@ -9,7 +9,7 @@
 ---
 
 ## Introduction
-Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com). The list contains industry ventures - biotech, pharma, and life science tech companies with centralized open code repositories. All of those companies work in the drug design and discovery field directly or indirectly. Collection created with mostly Github as a primary search term, so other code platforms could be represented better. The section for the **big pharma** was based on the [top pharma companies in 2022 by revenue ](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue) and [top 25 by R&D investment in 2022](https://www.drugdiscoverytrends.com/top-pharma-rd-spenders-2022/) (there is a COVID-19 bias). The **ML-first-companies** are companies that started as pure AI/ML that later converted to drug development in collaboration or internally. This list is based on my preferences and was partially improved by the list from the publication [AI in small-molecule drug discovery: a coming wave?](https://media.nature.com/original/magazine-assets/d41573-022-00025-1/20096834) Biotech companies section represents companies that started as a wet-lab platform but heavily using AI/ML for drug design and discovery process.
+Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), email at: [chupvl@gmail.com](mailto:chupvl@gmail.com). The list contains industry ventures - biotech, pharma, and life science tech companies with open code repositories. All of those companies work in the drug design and discovery field directly or not. Collection created with mostly Github as a primary search term, so other code platforms could be represented better. The section for the **big pharma** was based on the [top pharma companies in 2022 by revenue ](https://www.fiercepharma.com/pharma/top-20-pharma-companies-2022-revenue) and [top 25 by R&D investment in 2022](https://www.drugdiscoverytrends.com/top-pharma-rd-spenders-2022/) (there is a COVID-19 bias). The **ML-first-companies** are companies that started as pure AI/ML that later converted to drug development in collaboration or internally. This list is based on my preferences and was partially improved by the list from the publication [AI in small-molecule drug discovery: a coming wave?](https://media.nature.com/original/magazine-assets/d41573-022-00025-1/20096834). Biotech companies section represents companies that started as a wet-lab platform but heavily using AI/ML for drug design and discovery process.
 
 ## Criteria for inclusion:
 - Open code repository mostly of AI/ML focus
@@ -63,12 +63,13 @@ Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), em
   - [Biogen, Inc.](https://github.com/Biogen-Inc)
 - **SoseiHeptares**
   - [SoseiHeptares](https://github.com/soseiheptares)
+- **Moderna**
+  - [Moderna](https://github.com/ModernaTX)
 
 - **Companies that don't have centralized open code sharing**
   - **Bristol Myers Squibb**
   - **Takeda Pharmaceutical Company**
   - **Gilead**
-  - **Moderna**
   - **BioNTech**
   - **Regeneron Pharmaceuticals**
   - **Vertex Pharmaceuticals**
@@ -105,13 +106,15 @@ Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), em
 - [Enveda Biosciences](https://github.com/enveda)
 - [Ginkgo Bioworks](https://github.com/GinkgoBioworks)
 
-## Wet-lab companies
+## Wet-lab
 - [Illumina](https://github.com/Illumina)
 
-## ChemTech companies
+## ChemTech
 - [BASF](https://github.com/basf)
+- [Thermo Fisher Scientific](https://github.com/thermofisher)
+- 
 
-## Molecular Informatics companies
+## Molecular Informatics
 - [Simulations Plus](https://github.com/simulations-plus)
 - [Benchling](https://github.com/benchling)
 - [Schrodinger, Inc.](https://github.com/schrodinger)
@@ -121,6 +124,9 @@ Created by [Vladimir Chupakhin](https://www.linkedin.com/in/chupvl?_l=en_US), em
 - [Knime](https://github.com/knime)
 
 
+## Clinical Informatics
+- [Sage Bionetworks](https://github.com/Sage-Bionetworks)
+- [Flatiron Health, Inc.](https://github.com/flatironhealth)
 
 ## License
 
